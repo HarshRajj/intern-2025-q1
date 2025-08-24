@@ -15,7 +15,7 @@ def main():
 
         genai.configure(api_key=api_key)
 
-        model = genai.GenerativeModel('gemini-1.5-flash')
+        model = genai.GenerativeModel('gemini-2.0-flash')
 
         prompt = "In one sentence, write a friendly greeting to a new programmer."
         response = model.generate_content(prompt)
