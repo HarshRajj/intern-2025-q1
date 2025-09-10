@@ -1,13 +1,13 @@
 ## Description
 
-A minimal Python script that connects to the Google Gemini 1.5 Flash LLM to retrieve and print a simple greeting. This project demonstrates a successful API connection while securely managing the API key using a `.env` file.
+A minimal Python script that connects to the Google Gemini 2.5 Flash LLM to retrieve and print a simple greeting. This project demonstrates a successful API connection while securely managing the API key using a `.env` file.
 
 ## Usage
 
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/HarshRajj/intern-2025-q1.git
-    cd intern-2025-q1
+    cd 01-basic-qachat
     ```
 
 2.  **Install dependencies:**
