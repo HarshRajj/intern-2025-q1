@@ -1,7 +1,3 @@
-# Q1: Hello LLM
-
-This repository contains the solution for Question 1 of the Swiftex Internship assignment.
-
 ## Description
 
 A minimal Python script that connects to the Google Gemini 1.5 Flash LLM to retrieve and print a simple greeting. This project demonstrates a successful API connection while securely managing the API key using a `.env` file.
